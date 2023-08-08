@@ -1,2 +1,2 @@
 # odin-recipes
-first vproject for the odin project
+first project for the odin project
